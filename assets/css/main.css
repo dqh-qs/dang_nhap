@@ -1,0 +1,57 @@
+.table_{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.table {
+    width: 40%;
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+.table_tr_1 {
+  background-color: aqua;
+  
+}
+.table_tr_2 {
+  background-color: blanchedalmond;
+}
+.table_td {
+  padding: 5%;
+}
+
+.table_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.table2 {
+    width: 40%;
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+.table_td2 {
+  padding: 5%;
+}
+.table_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.table3 {
+    width: 40%;
+    
+}
+
+.table_td3 {
+  padding: 5%;
+}
+.hhh{
+  margin-left: 140px;
+ 
+}
